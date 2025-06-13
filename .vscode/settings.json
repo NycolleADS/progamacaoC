@@ -1,8 +1,6 @@
 {
     "files.associations": {
-        "olamundo.C": "cpp",
-        "variaveis-tiposdados.C": "cpp",
-        "horadecodar.C": "cpp",
-        "opearitmeticos.C": "cpp"
+        "opearitmeticos.C": "cpp",
+        "opeatribuicao.C": "cpp"
     }
 }
