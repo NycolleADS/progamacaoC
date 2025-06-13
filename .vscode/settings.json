@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "olamundo.C": "cpp"
+        "olamundo.C": "cpp",
+        "variaveis-tiposdados.C": "cpp"
     }
 }
