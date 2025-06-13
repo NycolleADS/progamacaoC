@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "olamundo.C": "cpp",
-        "variaveis-tiposdados.C": "cpp"
+        "variaveis-tiposdados.C": "cpp",
+        "horadecodar.C": "cpp"
     }
 }
