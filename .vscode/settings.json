@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "opearitmeticos.C": "cpp",
-        "opeatribuicao.C": "cpp"
+        "opeatribuicao.C": "cpp",
+        "opeincredecre.C": "cpp"
     }
 }
